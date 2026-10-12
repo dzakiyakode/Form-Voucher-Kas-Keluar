@@ -1,0 +1,19 @@
+{
+  "trx_date": "2026-10-12",
+  "ref_no": "KK-2026-0001",
+  "description": "Tes unduhan JSON",
+  "lines": [
+    {
+      "account_id": "5101",
+      "memo": "",
+      "debit": 2500000,
+      "credit": 0
+    },
+    {
+      "account_id": "1101",
+      "memo": "",
+      "debit": 0,
+      "credit": 2500000
+    }
+  ]
+}
