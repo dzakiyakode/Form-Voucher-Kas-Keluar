@@ -2,6 +2,8 @@
 
 Aplikasi web sederhana untuk mencatat voucher kas keluar dan memeriksa keseimbangan debit-kredit. Aplikasi berjalan langsung di browser dan tidak memerlukan proses build atau server backend.
 
+Lihat tampilan dan coba aplikasinya secara langsung di [Voucher Entri Kas Keluar](https://dzakiyakode.github.io/Form-Voucher-Kas-Keluar/). Website memiliki tampilan responsif yang memudahkan pencatatan voucher dari desktop maupun ponsel.
+
 ## Menjalankan secara lokal
 
 Buka `index.html` di browser, atau jalankan server statis lokal dari folder proyek:
